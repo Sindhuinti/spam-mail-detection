@@ -25,3 +25,6 @@ The model achieved an accuracy of around 95% on the validation set.
 ## Dataset
 
 ### :link: [Link](https://github.com/Sindhuinti/spam-mail-detection/blob/main/spam.csv)
+
+## Notebook 
+### :link: [Link](https://github.com/Sindhuinti/spam-mail-detection/blob/main/BERT_SPAM_CLASS_1.ipynb)
