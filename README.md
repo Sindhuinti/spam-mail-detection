@@ -20,4 +20,8 @@ The model achieved an accuracy of around 93% on the validation set.
 
 ## Model 
 
-![model image](./model.png)
+![model image](./spam-mail.png)
+
+## Dataset
+
+:link: [Link](https://github.com/Sindhuinti/spam-mail-detection/blob/main/spam.csv)
